@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/wlcbackground"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="378dp"
+        android:layout_height="408dp"
+        android:layout_marginTop="32dp"
+        android:gravity="center|top"
+        android:orientation="vertical"
+        android:padding="20dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.484"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView"
+        app:layout_constraintVertical_bias="0.315">
+
+        <Button
+            android:id="@+id/btLessons"
+            android:layout_width="250dp"
+            android:layout_height="102dp"
+            android:autoSizePresetSizes="50dp"
+            android:backgroundTint="@color/cyan"
+            android:text="Lessons"
+            android:textColor="@color/heloRed" />
+
+        <Button
+            android:id="@+id/btVideos"
+            android:layout_width="250dp"
+            android:layout_height="102dp"
+            android:backgroundTint="@color/cyan"
+            android:text="videos"
+            android:textColor="@color/heloRed" />
+
+        <Button
+            android:id="@+id/btnOres"
+            android:layout_width="250dp"
+            android:layout_height="102dp"
+            android:backgroundTint="@color/cyan"
+            android:onClick="resOnClicked"
+            android:text="online resources"
+            android:textColor="@color/heloRed" />
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="343dp"
+        android:layout_height="94dp"
+        android:layout_marginStart="34dp"
+        android:layout_marginTop="26dp"
+        android:layout_marginEnd="34dp"
+        android:padding="15dp"
+        android:text="Biology Master"
+        android:textAlignment="center"
+        android:textColor="@color/heloRed"
+        android:textSize="40dp"
+        android:textStyle="bold"
+        app:flow_horizontalAlign="end"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

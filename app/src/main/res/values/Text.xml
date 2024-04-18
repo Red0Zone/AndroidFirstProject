@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="DNA"> \n Introduction: \n\n DNA is the material that carries all the information about how a living
+        thing will look and function.  \nFor instance, DNA in humans determines such things as what color the eyes are
+        and how the lungs work.  \nEach piece of information is carried on a different section of the DNA.  \nThese sections
+        are called genes.  \nDNA is short for deoxyribonucleic acid.  \nIt is in every cell of every living thing.
+        \nDNA is found in structures of the cell called chromosomes.  \nBoth DNA and chromosomes are tiny.
+        \nScientists need to use very powerful microscopes to see them.  \n\n Functions:  \n\nWhen DNA works correctly,
+        it helps keep the body functioning properly.  \nDNA helps cells to make the substances called proteins,
+        which the cells need to live.  \nDNA also allows living things to reproduce.  \nThe genes in DNA pass along physical
+        traits from parents to children.  \nSometimes there are mistakes in DNA.  \nThese mistakes are called mutations.
+        \nThey can cause diseases and other problems.  \n\nStructure:\n\nDNA has a complex structure.
+        \nIt is made of chemical substances that are linked together like a chain.
+        \nEach piece of DNA has two long strands, or chains.  \nThe two strands are joined together.
+        \nThey form a shape like a ladder that has been twisted into a spiral.
+        \nChemicals called phosphates and sugars make up the sides of the ladder.
+        \nDNA also has chemicals called bases.  \nEach base on one strand is joined to a base on the other strand.
+        \nThe linked bases form the rungs of the ladder.  \n\nGenetic Code:  \n\nThere are four different bases in DNA:
+        adenine, thymine, guanine, and cytosine.  \nThese four chemicals are repeated in different orders over and over again
+        in each strand of DNA.  \nHuman DNA contains about 3 billion pairs of these bases.
+        \nThe order in which the bases are arranged is very important.
+        \nIt forms a code that tells cells to make certain kinds of proteins.
+        \nThe differences in these proteins is what makes different living things—such as a cactus, a gerbil, and two different
+        people—different.</string>
+
+    <string name="TheCell">\nIntroduction:
+        \n\nEvery organism, or living thing, is made up of structures called cells. The cell is the smallest unit with the basic properties of life. Some tiny organisms, such as bacteria and yeast, consist of only one cell. Large plants and animals have many billions of cells. Human beings are made up of more than 75 trillion cells. The study of cells is a branch of biology.
+        \n\nGeneral Features:
+        \n\nCells exist in a variety of shapes and sizes. For example, they may be cube-shaped or disk-shaped. Most cells are very small. For example, about 10,000 human cells could fit on the head of a pin. Bacteria cells can be much smaller. A much larger example of a single cell is the egg of a bird. Nerve cells are thin cells that can be as long as a meter.
+        Regardless of its shape and size, every cell can perform certain functions on its own. A cell can digest nutrients to provide its own energy. It can also produce new cells by making copies of itself. Most cells do this by dividing. In organisms with many cells, each cell must also cooperate with other cells. To do this, a cell must communicate with its neighbors.
+        Most many-celled organisms have cells of various kinds. The cells form different structures and perform different functions. Different types of animal cells, for example, form muscles, eyes, or teeth. Different plant cells form flowers, fruits, or seeds.
+        \n\nParts of a Cell:
+        \n\nMost cells have three main parts—the cell membrane, the cytoplasm, and the nucleus. The cell membrane is like the skin of the cell. The cytoplasm performs many functions to keep the cell alive. The nucleus can be thought of as the cell’s brain.
+        \n\nCell Membrane:\n\n
+        The cell membrane is a thin but tough wall surrounding the cell. It allows useful substances to enter the cell. But it blocks the entry of harmful substances. The membrane also forces out waste products.
+        \n\nCytoplasm:\n\n
+        The cytoplasm is composed mainly of water, with some solids. Most of the cell’s constant work of keeping alive is performed in the cytoplasm. Special structures, called organelles, within the cytoplasm perform specific functions. For example, some organelles make important substances called proteins. Cells use proteins in most of their chemical processes. Other organelles change food molecules into material needed for energy and growth. A network of tubes transports material within the cell.
+        \n\nNucleus:\n\n
+        The nucleus is one of the organelles in the cell. It is located near the center of the cell. It acts as the control center of the cell. It regulates the cell’s growth and reproduction.
+        The nucleus contains structures called chromosomes. Chromosomes contain the cell’s genes, which determine the characteristics of the cell. When the cell makes copies of itself, the genes pass on the cell’s traits to the new cells.
+        \n\nTypes of Cells:\n\n
+        Although they have many things in common, cells are different in different types of living things. The main types are plant cells and animal cells. Simpler organisms, including bacteria, have simpler cells. They have a membrane and cytoplasm but no nucleus.
+        In plant cells, a rigid wall surrounds and protects the cell membrane. The wall is made of a woody substance called cellulose. A plant’s cell walls make the plant stiff enough to grow tall.
+        Animal cells do not have cell walls. This allows animal cells to change more in size and shape than plant cells can. However, most many-celled animals need structures such as bones to support their bodies. They also need shells or tough skins to protect them. Special cells form these structures.
+        In addition, most plants have structures called chloroplasts in their cells. The chloroplasts contain a chemical called chlorophyll. This makes the plants green. Chlorophyll helps plants make food from the energy in sunlight. This process is called photosynthesis. Animal cells do not contain chloroplasts.</string>
+
+    <string name="Genetics">\nIntroduction:
+        \n\nGenetics is the study of heredity, or how certain features pass from parents to their offspring, or young. Every kind of plant and animal produces young of its own species, or type. The young resemble their parents. But offspring are not usually exactly the same as their parents. For example, their hair color or height may be different. Genetics explains how offspring get some of their parents’ features, or traits, but not others.
+        \n\nGenes, Chromosomes, and Reproduction:
+        \n\nGenes are the basic units of heredity. They carry information about a living thing, including its traits. Genes exist inside the cells that make up living things. Threadlike structures called chromosomes carry the genes. Each chromosome is made up mainly of a substance called deoxyribonucleic acid, or DNA. The genes are short sections of DNA.
+        In human beings most cells have 23 pairs of chromosomes, or 46 in all. The sex cells—sperm cells and egg cells—each have only one set of 23 chromosomes. This is because of the way reproduction works. Every human baby begins as an egg cell from the mother. First, though, a sperm cell from the father must enter the egg. When this happens, the sperm’s chromosomes unite with the chromosomes from the egg. Together they form 23 pairs of chromosomes. The egg then begins to divide over and over to grow into a baby. As the baby grows, each of its cells gets a copy of the original chromosomes.
+        \n\nA Boy or a Girl?:
+        \n\nOne pair of chromosomes in a baby causes it to be a boy or a girl. This pair consists of chromosomes labeled X or Y. Sperm cells have either an X or a Y chromosome. But an egg cell always has an X chromosome. Therefore, when a sperm unites with an egg, the new cell has either one X and one Y chromosome or two X chromosomes. A cell with one X and one Y chromosome produces a boy. A cell with two X chromosomes produces a girl.
+        \n\nHow Traits Are Inherited:
+        \n\nA baby’s chromosomes carry a set of genes from the father and another set from the mother. These genes work together to produce the baby’s traits. Each gene has a special task—for example, giving dimples to the baby’s cheeks.
+        Some genes are dominant, or stronger than others. A child may get a gene for cheek dimples from the father and a gene for no cheek dimples from the mother. Because the cheek-dimple gene is dominant, it takes over the job of giving cheek dimples to the child. A child has no cheek dimples only if he or she receives two genes for no cheek dimples, one from each parent.
+        Children of the same parents can end up with different traits. This is because each parent carries two genes for every task but gives each child only one of these. The father, for example, may have one gene for cheek dimples and one gene for no cheek dimples. His first child may get the cheek-dimple gene. His second child may get the gene for no cheek dimples.
+        Identical twins have exactly the same traits because they have exactly the same genes. Identical twins form from one egg that has united with a sperm. This egg splits in half, and each half grows into a separate baby. Fraternal twins have different sets of genes. This is because they form from two separate eggs that united with two different sperm.
+        \n\nGenetic Problems:
+        \n\nSometimes a gene does not work as it should, or it works in a harmful way. The result may be a defect in a part of the body or a disease. A condition called albinism is an example. It occurs when the gene that controls the body’s production of coloring substances does not work properly. People with this condition are born without color in their eyes, hair, or skin. Muscular dystrophy is a disease caused by a defective gene. The disease causes the muscles to weaken over time.
+        \n\nHistory of Genetics:
+        \n\nIn the 1850s and 1860s an Austrian monk named Gregor Mendel studied pea plants in his garden. He found that there were rules for how traits passed from one generation of pea plants to the next. The rules are the same for every plant and animal. During his lifetime no one understood how important these findings were.
+        In 1900 people rediscovered Mendel’s work. From then on, the new science of genetics grew rapidly. Scientists began to use it to help explain the theory, or idea, of evolution. An English scientist named Charles Darwin had put forth the theory in the 1850s. It describes how species adapt to their environment and how new species form.
+        In 1953 James Watson of the United States and Francis Crick of England discovered the structure of DNA. Their studies helped scientists understand how genes work and how they make copies of themselves.
+        By the mid-1970s, scientists had learned how to locate, remove, and insert specific genes in DNA. This work is called genetic engineering. By the 1990s scientists could clone animals, or produce animals that have exactly the same DNA as another animal. In 1996 researchers in Scotland produced the first clone of an adult mammal—a sheep. Some scientists worked toward cloning human beings. But others saw this work as dangerous and wrong.
+        In 2003 a team of researchers finished a project to identify and locate all the genes in all human DNA. The results will help scientists in the study of human biology and medicine.</string>
+
+    <string name="Metabolism">\nIntroduction:
+\n\nMetabolism is a group of chemical reactions, or changes, that happen in the cells of living things. Metabolism is necessary for life. Some metabolic reactions let cells break down food. Others let cells grow or repair themselves.
+\nInside every living thing, hundreds or thousands of metabolic reactions are taking place at the same time. These reactions involve either the release of energy or the use of energy. Metabolic reactions that release energy are called catabolism. Reactions that use energy are called anabolism.
+\n\nCatabolism:
+\n\nIn catabolism, molecules are broken down and energy is released. An example is the breakdown of food during digestion. Food is mostly made up of proteins, carbohydrates (starch and sugar), and fats. Cells use catabolic reactions to break down those nutrients into smaller molecules. As that happens, energy is released. This energy may be used to maintain body temperature. It also may be used in the other type of metabolism—anabolism.
+\n\nAnabolism:
+\n\nCells use anabolism to build important substances. Unlike catabolic reactions, anabolic ones require energy. A cell uses this energy to combine small molecules into larger molecules. For example, a plant’s cells use anabolism to grow new leaves, or to fix torn ones. And an animal’s cells use it to build the proteins that make up muscle.
+\n\nMetabolic Problems:
+\n\nMetabolism is regulated by substances called enzymes. Certain hormones also affect how quickly metabolism takes place. Problems with these enzymes and hormones can lead to metabolic disorders. For instance, a disorder called hyperthyroidism causes a person’s metabolism to be too fast. Symptoms include weight loss, high blood pressure, and nervousness. Diabetes is another common metabolic disorder.
+        \nOther metabolic problems result from diseases that are inherited, or passed from parents to children through genes. These diseases affect the ability of cells to perform metabolic reactions. Two examples are Tay-Sachs disease and cystic fibrosis. Babies born with Tay-Sachs usually do not live longer than four or five years. Cystic fibrosis leads to problems with the lungs.</string>
+
+    <string name="Hormones">\nIntroduction:
+\n\nJust about every living thing made up of more than one cell produces hormones. Hormones are chemicals that tell cells and body parts to do certain things. For example, hormones tell the body when to grow and when to stop growing.
+\nIn humans and other animals, organs called glands release hormones into the blood. Together these glands make up the endocrine system. Other organs, such as the stomach and the small intestine, also release hormones.
+\n\nTypes of Hormones:
+\nPlants produce hormones that control their growth. Plant hormones also cause flowers and fruit to grow.
+\nInsects make hormones, too. One hormone causes insects to molt, or shed their exoskeletons. Others cause metamorphosis (the change from baby to adult).
+\nInsects and many other animals release hormones called pheromones into their habitats. These pheromones can attract mates, mark the location of food, or warn other animals of danger.
+\nThe human body makes more than 20 major hormones. Growth hormone helps to build muscles. Adrenaline, also called epinephrine, makes the heart beat fast during stressful times. Insulin controls the level of sugar in the blood. Estrogen causes girls to grow into women. Testosterone causes boys to grow into men.
+\n\nHow Hormones Work:
+\n\nIn humans, hormones travel through the blood to cells throughout the body. Many different hormones may be in the blood at one time. Each hormone can affect only a certain type of cell. These cells are known as target cells. A hormone travels to its own target cells and locks onto them. When this happens, the hormone causes the cells to start or to stop certain activities.</string>
+</resources>

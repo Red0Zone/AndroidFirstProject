@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/back2"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".showPageActivity">
+
+
+    <TextView
+        android:id="@+id/showPageTV"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:padding="20dp"
+        android:text="DNA"
+        android:textAlignment="center"
+        android:textColor="@color/heloRed"
+        android:textSize="30dp" />
+
+    <ScrollView
+
+        android:layout_width="match_parent"
+        android:layout_height="589dp"
+        android:layout_margin="10dp">
+
+        <TextView
+            android:id="@+id/showPageTV2"
+            android:layout_width="match_parent"
+            android:layout_height="617dp"
+            android:padding="5dp"
+            android:textSize="20dp" />
+    </ScrollView>
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/backbtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:baselineAlignBottom="true"
+        android:clickable="true"
+        android:onClick="backButtonOnClick"
+        app:srcCompat="@android:drawable/ic_menu_revert" />
+
+
+</LinearLayout>
